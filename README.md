@@ -1,2 +1,1 @@
-<img width="628" height="480" alt="urourouro" src="https://github.com/user-attachments/assets/b2231a64-8358-45c5-959f-a77dc077d2b5" />
-
+<img src="https://media1.giphy.com/media/rfv1Yb8OTlcmexTKT3/200.gif" alt="Art Is Not By Me GIF"/>
